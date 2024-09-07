@@ -38,7 +38,7 @@ with st.expander("🪟 Frontend Development"):
 
 # My Skills
 st.subheader("🐥 My Skills")
-st.image("https://skillicons.dev/icons?i=python,java", use_column_width=True)
+st.image("https://skillicons.dev/icons?i=python", use_column_width=True)
 
 # Future Plans
 st.subheader("🌟 What in Future")
@@ -50,9 +50,7 @@ st.write("""
 # Contact Information
 st.subheader("📩 Connect with Me")
 st.write("""
-- 📩 jeerasakananta@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
-- 📖 [Medium](https://medium.com/@jeerasakananta_1762/about)
+- 📩 unumkhang.555@gmail.com
 """)
 
 # Footer
